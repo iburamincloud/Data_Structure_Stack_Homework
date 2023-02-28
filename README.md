@@ -2,6 +2,3 @@
 
 - EN: The homework is explained in detail in the pdf file and the code is intended to be written according to the request.
 - TR: Ödev pdf dosyasında detaylıca açıklanmış olup kod istenen göre yazılması amaçlanmıştır.
-
-- EN:Attention: please check your txt file directory.
-- TR:Dikkat: lütfen dosya yolunuzun doğru olduğundan emin olun.
